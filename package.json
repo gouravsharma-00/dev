@@ -1,0 +1,35 @@
+{
+  "name": "portfolio",
+  "version": "0.0.0",
+  "description": "Portfolio website build on nextjs",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "next ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouravsharma-00/dev.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "gouravsharma-00",
+    "nextjs"
+  ],
+  "author": "gouravsharma-00",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gouravsharma-00/dev/issues"
+  },
+  "homepage": "https://github.com/gouravsharma-00/dev#readme",
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.6",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.6"
+  }
+}
